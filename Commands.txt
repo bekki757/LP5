@@ -41,14 +41,16 @@ Open Terminal:
 
 ### Assignment No 4:
 
+
 Open Terminal 1:
 
-    python client.py
-
+    javac BerkeleyServer.java
+    java BerkeleyServer
 
 Open Terminal 2:
 
-    python server.py
+    javac BerkeleyClient.java
+    java  BerkeleyClient
 
 ### Assignment No 5:
 
